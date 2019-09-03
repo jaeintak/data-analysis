@@ -2,7 +2,10 @@
 
 
 ## Processing text data
-### Eliminating capital letters and punctuations
+### Read in all 56 text files of US presidential inauguration speech
+### Group them by the 70s, 80s, 90s, 00s
+### Group them by the stage 1, stage 2, stage 3 based on the results of the first grouping
+### Eliminate capital letters and punctuations
 
 ### Making a data frame 
 
